@@ -43,7 +43,7 @@ ________________________________________
 -Etiqueta: Unidades
 -Insight: Indica la cantidad total de productos vendidos. Ayuda a diferenciar entre alto volumen de ventas y alto ingreso, y a analizar la rotación de productos.
 ________________________________________
-4️. Ventas por Día
+4. Ventas por Día
 -Etiqueta: Día de la semana
 -Insight: Permite identificar qué días concentran mayor y menor nivel de ventas. Facilita la detección de patrones semanales y la planificación de promociones o ajustes operativos.
 ________________________________________
@@ -63,5 +63,7 @@ ________________________________________
 -Etiqueta: Filtros dinámicos
 -Métrica: Mes, Año, Género, limpiar
 -Insight: Permiten un análisis detallado, comparando ventas entre períodos
+
+Conclusión
 
 El análisis de ventas permite identificar patrones claros de consumo a lo largo del tiempo, destacando momentos del día y días de la semana con mayor concentración de ingresos. Los resultados muestran que un grupo reducido de productos concentra la mayor parte de las ventas, mientras que el precio unitario promedio se mantiene estable, reflejando un comportamiento de compra consistente. En conjunto, los insights obtenidos facilitan la toma de decisiones orientadas a optimizar horarios, priorizar productos estratégicos y mejorar el desempeño comercial sin necesidad de incrementar el volumen de clientes.
