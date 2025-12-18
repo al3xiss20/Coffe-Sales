@@ -47,21 +47,21 @@ ________________________________________
 -Etiqueta: Día de la semana
 -Insight: Permite identificar qué días concentran mayor y menor nivel de ventas. Facilita la detección de patrones semanales y la planificación de promociones o ajustes operativos.
 ________________________________________
-5️. Top 5 Cafés Más Vendidos
+5. Top 5 Cafés Más Vendidos
 -Etiqueta: Productos
 -Insight: Identifica los cinco cafés con mayor nivel de ventas. Permite reconocer los productos más demandados y evaluar su impacto en los ingresos totales.
 ________________________________________
-6️. Ventas a Través del Tiempo
+6. Ventas a Través del Tiempo
 -Etiqueta: Tendencia temporal
 -Insight: Muestra la evolución de las ventas a lo largo del tiempo. Permite detectar tendencias, estacionalidad y cambios en el comportamiento del consumidor.
 ________________________________________
-7️. Precio Unitario Promedio
+7. Precio Unitario Promedio
 -Etiqueta: Precio
 -Insight: Representa el valor promedio por unidad vendida. Permite analizar el comportamiento de gasto del cliente y evaluar oportunidades de ajuste de precios o estrategias de upselling.
 ________________________________________
 8.	Filtros de Segmentación
-- Etiqueta: Filtros dinámicos
-- Métrica: Mes, Año, Género, limpiar
-- Insight: Permiten un análisis detallado, comparando ventas entre períodos
+-Etiqueta: Filtros dinámicos
+-Métrica: Mes, Año, Género, limpiar
+-Insight: Permiten un análisis detallado, comparando ventas entre períodos
 
 El análisis de ventas permite identificar patrones claros de consumo a lo largo del tiempo, destacando momentos del día y días de la semana con mayor concentración de ingresos. Los resultados muestran que un grupo reducido de productos concentra la mayor parte de las ventas, mientras que el precio unitario promedio se mantiene estable, reflejando un comportamiento de compra consistente. En conjunto, los insights obtenidos facilitan la toma de decisiones orientadas a optimizar horarios, priorizar productos estratégicos y mejorar el desempeño comercial sin necesidad de incrementar el volumen de clientes.
