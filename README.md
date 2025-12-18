@@ -1,9 +1,9 @@
 # Coffe-Sales
-# Data-Analysis-Dashboard
-Este proyecto analiza datos de ventas retail en Excel, aplicando limpieza, transformación y creación de KPIs como ventas totales, ticket promedio y margen. Se diseñó un dashboard interactivo con tablas dinámicas y gráficos para identificar patrones de consumo, productos más rentables y desempeño por sucursal.
+
+Este proyecto analiza datos de ventas del sector retail almacenados en Excel, donde se realizan procesos de limpieza y transformación de la información. A partir de estos datos se definen KPIs clave como ventas totales, ticket promedio y margen. La visualización y el análisis se presentan en un dashboard interactivo desarrollado en Power BI, que permite identificar patrones de consumo, productos más rentables y el desempeño por sucursal.
 
 # Dataset Usado
-- <a href="https://www.kaggle.com/datasets/miguelacastillos/retail-sales-tienda-de-electrnica/data">Dataset</a>
+- <a href="https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset">Dataset</a>
 - 🗂️ <a href="https://github.com/al3xiss20/Data-Analysis-Dashboard/blob/main/Colum.png">Columnas</a>
 
 El análisis busca responder preguntas clave como:
